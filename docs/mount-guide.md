@@ -1,6 +1,6 @@
 # Kali Linux 下读取华为云导出的 ZVHD 磁盘备份
 
-**作者：** 刘志勇  
+**作者：** liuzhiyong  
 **日期：** 2026年10月28日  
 **操作环境：** Kali Linux x86_64  
 **主要工具：** `qemu-img-hw`、GCC、zlib、QEMU NBD、LVM
